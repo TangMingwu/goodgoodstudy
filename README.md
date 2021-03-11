@@ -1,3 +1,10 @@
-good good study
+# 2021年目标
 
-day day up
+成功步入人生正轨，工作和生活
+
+## 2021年3月目标
+
+学习完《庖丁解牛Linux内核分析》
+
+leetcode周赛进入前一千
+
